@@ -1,0 +1,8 @@
+/home/hjalte/dev/engine/build/CMakeFiles/hello.dir
+/home/hjalte/dev/engine/build/CMakeFiles/edit_cache.dir
+/home/hjalte/dev/engine/build/CMakeFiles/rebuild_cache.dir
+/home/hjalte/dev/engine/build/vendored/sdl/CMakeFiles/SDL3-shared.dir
+/home/hjalte/dev/engine/build/vendored/sdl/CMakeFiles/SDL3_test.dir
+/home/hjalte/dev/engine/build/vendored/sdl/CMakeFiles/SDL_uclibc.dir
+/home/hjalte/dev/engine/build/vendored/sdl/CMakeFiles/edit_cache.dir
+/home/hjalte/dev/engine/build/vendored/sdl/CMakeFiles/rebuild_cache.dir

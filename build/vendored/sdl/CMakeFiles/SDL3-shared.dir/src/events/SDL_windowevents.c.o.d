@@ -1,0 +1,26 @@
+vendored/sdl/CMakeFiles/SDL3-shared.dir/src/events/SDL_windowevents.c.o: \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_windowevents.c \
+ /usr/include/stdc-predef.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/SDL_internal.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_events_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/../video/SDL_sysvideo.h \
+ /home/hjalte/dev/engine/vendored/sdl/include/SDL3/SDL_vulkan.h \
+ /home/hjalte/dev/engine/vendored/sdl/include/SDL3/SDL_stdinc.h \
+ /home/hjalte/dev/engine/vendored/sdl/include/SDL3/SDL_error.h \
+ /home/hjalte/dev/engine/vendored/sdl/include/SDL3/SDL_video.h \
+ /home/hjalte/dev/engine/vendored/sdl/include/SDL3/SDL_begin_code.h \
+ /home/hjalte/dev/engine/vendored/sdl/include/SDL3/SDL_close_code.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/../video/SDL_surface_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/../video/SDL_blit.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_clipboardevents_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_displayevents_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_dropevents_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_keyboard_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_keymap_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_mouse_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_touch_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_pen_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/../SDL_internal.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_windowevents_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/SDL_eventwatch_c.h \
+ /home/hjalte/dev/engine/vendored/sdl/src/events/../tray/SDL_tray_utils.h

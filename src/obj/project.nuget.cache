@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8hWpwKElWA=",
+  "success": true,
+  "projectFilePath": "/home/hjalte/dev/engine/src/Program.csproj",
+  "expectedPackageFiles": [
+    "/home/hjalte/.nuget/packages/sdl3-cs.native/3.5.0-preview.20260205-174353/sdl3-cs.native.3.5.0-preview.20260205-174353.nupkg.sha512"
+  ],
+  "logs": []
+}
