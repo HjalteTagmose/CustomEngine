@@ -1,4 +1,5 @@
 build/
 bin/
+obj/
 obj/vendor/SDL3-cs/lib/
 vendor/SDL3-cs/lib/
