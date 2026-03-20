@@ -19,7 +19,7 @@ class SandboxApp : Application
 
     protected override void OnKeyDown(in KeyboardEvent e)
     {
-        if (e.Button == KeyboardButton.Escape)
+        if (e.Key == KeyboardKey.Escape)
             Exit();
     }
 }

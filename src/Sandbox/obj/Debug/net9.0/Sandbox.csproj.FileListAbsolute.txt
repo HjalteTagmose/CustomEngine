@@ -1,6 +1,0 @@
-C:\dev\CustomEngine\src\Sandbox\obj\Debug\net9.0\Sandbox.csproj.AssemblyReference.cache
-C:\dev\CustomEngine\src\Sandbox\obj\Debug\net9.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
-C:\dev\CustomEngine\src\Sandbox\obj\Debug\net9.0\Sandbox.AssemblyInfoInputs.cache
-C:\dev\CustomEngine\src\Sandbox\obj\Debug\net9.0\Sandbox.AssemblyInfo.cs
-C:\dev\CustomEngine\src\Sandbox\obj\Debug\net9.0\Sandbox.csproj.CoreCompileInputs.cache
-C:\dev\CustomEngine\src\Sandbox\obj\Debug\net9.0\Sandbox.sourcelink.json
