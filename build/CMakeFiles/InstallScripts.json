@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/hjalte/dev/engine/build/cmake_install.cmake",
-		"/home/hjalte/dev/engine/build/vendored/sdl/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

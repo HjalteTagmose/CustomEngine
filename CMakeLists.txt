@@ -6,7 +6,7 @@ project(hello)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/$<CONFIGURATION>")
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/$<CONFIGURATION>")
 
-# This assumes the SDL source is available in vendored/SDL
+# This assumes the SDL source is available in vendor/SDL
 add_subdirectory(vendored/sdl EXCLUDE_FROM_ALL)
 
 # Create your game executable target as usual
